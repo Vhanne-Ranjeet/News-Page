@@ -1,2 +1,2 @@
 # News-Page
-News page project using react
+News page project using React JS
